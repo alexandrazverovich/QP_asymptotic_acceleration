@@ -9,3 +9,8 @@ Specifically:
 A list of the required Python libraries is included in the beginning of the notebook. 
 
 Download both the notebook (`Rescale_QP_Experiments.ipynb`) and the Python file containing the relevant strategies (`QP_Solvers.py`) into the same folder. Run the code provided in the notebook.
+
+### How to cite this material
+
+To cite this work, use the DOI:
+[https://doi.org/10.5281/zenodo.19666872](https://doi.org/10.5281/zenodo.19666872)
