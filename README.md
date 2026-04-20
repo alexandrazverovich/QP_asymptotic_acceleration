@@ -1,4 +1,4 @@
-# Rescaling_QP_asymptotic_acceleration
+## Contents
 
 This GitHub repository contains materials to reproduce the experiments presented in the article [*Rescaling and Asymptotic Acceleration in Unconstrained Quadratic Optimisation*](https://doi.org/10.1007/s44007-026-00212-1) by A. Zverovich, M. Hutchings and B. Gauthier (La Matematica, 2026).
 
