@@ -12,4 +12,4 @@ Download both the notebook (`Rescale_QP_Experiments.ipynb`) and the Python file 
 
 ### How to cite this material
 
-To cite this work, use [https://doi.org/10.5281/zenodo.19666872](https://doi.org/10.5281/zenodo.19666872).
+To cite this repository, use [https://doi.org/10.5281/zenodo.19666872](https://doi.org/10.5281/zenodo.19666872).
